@@ -245,10 +245,3 @@ Check `notebooks/` for detailed EDA and evaluation notebooks.
 This project uses the `LICENSE` file at the repository root.
 
 ---
-
-If you'd like, I can also:
-- Add a `README` section with one-click Docker Hub push steps
-- Create a short `docs/` landing page with screenshots of the Streamlit UI
-- Add a small CI workflow to build the Docker image automatically
-
-Tell me which of these you'd like next and I'll add it.
