@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-DATA_PATH = "D:/hybrid-recommender-system-spotify/data/raw/Music Info.csv"
+DATA_PATH = "D:\hybrid-recommender-system-spotify\data\Music Info.csv"
 
 def clean_data(data):
     """
